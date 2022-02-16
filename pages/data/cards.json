@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "L'Anima del Vi",
+    "instagram": "https://instagram.com/lanimadelvi",
+    "website": "http://www.lanimadelvi.com",
+    "category": "Living",
+    "tags": ["natural wine", "french", "catalan", "local products"],
+    "description": "Excellent selection of natural wines, tasty dishes, and jazz music.",
+    "address": {
+      "street": "Carrer dels Vigatans",
+      "suite": "8",
+      "city": "Barcelona",
+      "zipcode": "08003",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3843023",
+        "lng": "2.1800432"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of l'Anima del Vi"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cyclic Beer Farm",
+    "instagram": "https://instagram.com/cyclicbeerfarm",
+    "website": "https://cyclicbeerfarm.com",
+    "category": "Living",
+    "tags": ["craft beer", "brewery", "terrace"],
+    "description": "Mixed fermentation beers from premium ingredients, crafted with artistry.",
+    "address": {
+      "street": "Carrer de Coll",
+      "suite": "37",
+      "city": "Barcelona",
+      "zipcode": "08027",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.4243477",
+        "lng": "2.1869976"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Cyclic Beer Farm"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Monocrom",
+    "instagram": "https://instagram.com/monocrom.wine",
+    "website": "https://www.monocrom.wine",
+    "category": "Living",
+    "tags": ["natural wine", "terrace"],
+    "description": "Tasty dishes and a wide fine selection of natural wines.",
+    "address": {
+      "street": "Plaça de Cardona",
+      "suite": "4",
+      "city": "Barcelona",
+      "zipcode": "08006",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3980719",
+        "lng": "2.1485912"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Monocrom"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Naali Lodge",
+    "website": "https://www.naalilodge.com",
+    "instagram": "https://instagram.com/naalilodge",
+    "category": "Travel",
+    "tags": ["sustainable travel", "lodge", "outdoors", "nature", "northern lights", "sauna", "km0"],
+    "description": "Wilderness eco lodge in the forests of Posio Lapland, for accomodation and small adventures.",
+    "address": {
+      "street": "Saarisiulantie",
+      "suite": "16",
+      "city": "Posio",
+      "zipcode": "97900",
+      "country": "Finland",
+      "geo": {
+        "lat": "66.0481837",
+        "lng": "27.9640376"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Naali Lodge"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Fatbottom",
+    "instagram": "https://instagram.com/fatbottombooks",
+    "website": "https://fatbottombooks.com/",
+    "category": "Culture",
+    "tags": ["art", "book", "fanzine", "print"],
+    "description": "",
+    "address": {
+      "street": "Carrer de la Lluna",
+      "suite": "21",
+      "city": "Barcelona",
+      "zipcode": "08001",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3813854",
+        "lng": "2.1656619"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Fatbottom"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Bon Vent",
+    "instagram": "https://instagram.com/bonventbarcelona",
+    "website": "https://www.bonvent.cat/en/",
+    "category": "Design",
+    "tags": ["interior", "deco", "mediterranean"],
+    "description": "",
+    "address": {
+      "street": "Carrer de l'Argenteria",
+      "suite": "41",
+      "city": "Barcelona",
+      "zipcode": "08003",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3837437",
+        "lng": "2.1802456"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Bon Vent"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cocunat",
+    "instagram": "https://instagram.com/cocunat",
+    "website": "https://cocunat.com/fr-fr/",
+    "category": "Beauty",
+    "tags": ["cosmetics", "natural", "toxic free", "skin care", "body", "hair", "make up"],
+    "description": "",
+    "address": {
+      "street": "Rambla de Catalunya",
+      "suite": "89",
+      "city": "Barcelona",
+      "zipcode": "08008",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3927681",
+        "lng": "2.1607518"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Cocunat"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zeta Shoes",
+    "instagram": "https://instagram.com/zeta_shoes",
+    "website": "https://www.zeta-shoes.com/",
+    "category": "Fashion",
+    "tags": ["recycled", "grapes", "sustainable"],
+    "description": "",
+    "address": {
+      "street": "",
+      "suite": "",
+      "city": "",
+      "zipcode": "",
+      "country": "",
+      "geo": {
+        "lat": "",
+        "lng": ""
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Name"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Suto",
+    "instagram": "https://instagram.com/suto_barcelona",
+    "website": "https://restaurante.covermanager.com/sutto/",
+    "category": "Living",
+    "tags": ["japanese", "gastronomy"],
+    "description": "",
+    "address": {
+      "street": "Carrer de Violant d'Hongria Reina d'Aragó",
+      "suite": "134",
+      "city": "Barcelona",
+      "zipcode": "08028",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3799397",
+        "lng": "2.1335225"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Suto"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Macot",
+    "instagram": "https://instagram.com/macot.barvins",
+    "website": "https://macotbaravins.com/",
+    "category": "Living",
+    "tags": ["natural wine", "tapas"],
+    "description": "",
+    "address": {
+      "street": "Carrer de Violant d'Hongria Reina d'Aragó",
+      "suite": "150",
+      "city": "Barcelona",
+      "zipcode": "08028",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3803817",
+        "lng": "2.1324997"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Macot"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Barcelona City Records",
+    "instagram": "https://instagram.com/barcelonacityrecords",
+    "website": "",
+    "category": "Culture",
+    "tags": ["records", "vinyles"],
+    "description": "",
+    "address": {
+      "street": "Carrer d'En Mònec",
+      "suite": "13",
+      "city": "Barcelona",
+      "zipcode": "08003",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3884879",
+        "lng": "2.1601802"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Name"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Rhythm Control Barcelona",
+    "instagram": "",
+    "website": "https://www.facebook.com/rhythmcontrolbarcelona/",
+    "category": "Culture",
+    "tags": ["records", "vinyles", "electronic music"],
+    "description": "",
+    "address": {
+      "street": "Ronda de Sant Pau",
+      "suite": "17",
+      "city": "Barcelona",
+      "zipcode": "08015",
+      "country": "Spain",
+      "geo": {
+        "lat": "41.3761831",
+        "lng": "2.1600947"
+      }
+    },
+    "photo": {
+      "src": "/img/small-grey.jpg",
+      "alt": "Photo of Name"
+    }
+  }
+]

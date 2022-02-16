@@ -1,0 +1,61 @@
+.layout {padding:2rem;max-width: 1620px;margin: 0 auto;}
+/* HEADER */
+.header {width: 100%;display: flex;flex-direction: row;justify-content: space-between;}
+.header h1{margin:0;}
+.header a {border-bottom:none;}
+.header .header_div {display: flex;flex-direction: row;justify-content: center;align-items: center;}
+.header .header_div .search {padding:2rem;}
+.header .header_div .mode {padding:0;display: flex;}
+.header .header_div .mode .button_mode {height: 1.2rem; width: 1.2rem; border-radius: 50%; color: var(--fg); border: none; background-color: var(--fg); cursor:pointer;}
+
+.search input {min-width: 276px;padding: 12px;background: #161318;border: 1px solid #fff;}
+.search_result {padding:2rem 0;}
+
+.main {display: flex;flex-direction: column;justify-content: space-between;min-height: 100vh;padding: 4rem 0;}
+
+/* HOME */
+.section {padding:2rem 0;max-width: 600px;}
+.section p {margin: 0 0 1rem;}
+.section a {border-bottom: solid 1px var(--fg);}
+.section h1 {cursor: pointer;}
+.section h1 span {display: none;}
+.section h1:hover span {display: inline;}
+
+/* BROWSE BY CAT */
+.browse {display: flex;flex-direction: column;justify-content: center;align-items: center;padding: 4rem 0;}
+.button {padding:0.8rem 1rem; margin: 0.2rem;background-color: var(--bg);font-size: 24px;line-height: 28px; color: var(--fg); text-decoration: none; display: inline-block; border: 1.5px solid var(--fg); cursor:pointer;}
+.button:hover {background-color: var(--fg);color: var(--bg);}
+
+/* THE ADDRESS BOOK */
+.cards {padding:2rem 0;margin: 0 auto;display: grid;grid-gap: 2rem;}
+.card h2 {margin:0;font-size: 1.5rem;margin: 1rem 0;}
+.card p {margin: 0 0 2rem;}
+.card a {border-bottom: solid 1px var(--fg);}
+
+.card_tags {margin: 0 0 2rem;}
+.card_tags div{display: inline-block;margin:0 1rem 0 0;}
+.card_cat {margin: 0 0 2rem;}
+.card_header {margin:0 0 2rem;}
+.card_title {margin: 0;}
+
+/* BLOG */
+.post {display:flex;flex-direction: row;max-width: 800px;}
+.post h3 {margin:0;}
+.post p {margin: 0 0 2rem;}
+.post a {border-bottom: solid 1px var(--fg);}
+.date {margin: 0 0 0 2rem;}
+.tags {margin: 0 0 0 2rem;}
+.post_cat {margin: 0 0 0 2rem;}
+
+.footer {padding:2rem 0;margin: 0 auto;display: grid;grid-gap: 2rem;}
+
+/* MEDIA QUERIES */
+@media (min-width: 600px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 900px) {
+  .cards { grid-template-columns: repeat(3, 1fr); }
+}
+@media (min-width: 1100px) {
+  .cards { grid-template-columns: repeat(4, 1fr); }
+}
